@@ -1,14 +1,37 @@
-# Project
+# Build Modern AI Apps 
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This page is intended as a home page for all of the Microsoft Official Build Modern AI Apps reference solutions and content. The projects listed below provide access to all of the publisked Microsoft content on how to build Modern AI Apps that incorporate Hero Azure Services including Azure OpenAI, Azure Container Apps (or Azure Kuberntes Service), Azure Cosmos DB and Azure Cognitive Search.
 
-As the maintainer of this project, please make a few updates:
+## Solutions
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The items below represent Solution Accelerators designed to help demonstrate how to build AI-enabled applications and services in Azure. These solutions can be forked or cloned to help build prototypes for these types of applications, helping to reduce time to market for customers. The solution accelerator solutions below are also accompanied by a hackathon to provide a series of challenges for users to go build these solutions and learn the concepts and Azure Services used within each.
+
+### Vector Search & AI Assistant
+
+[Navigate to Vector Search & AI Assistant](https://github.com/AzureCosmosDB/VectorSearchAiAssistant/tree/cognitive-search-vector)
+
+The scenario for this sample centers around a consumer retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in the database. The data in this solution is from the [Cosmic Works sample](https://github.com/azurecosmosdb/cosmicworks) for Azure Cosmos DB. This data is an adapted subset of the Adventure Works 2017 dataset for a retail Bike Shop that sells bicycles, biking accessories, components and clothing.
+
+[Hackathon Content](https://github.com/AzureCosmosDB/OpenAIHackathon)
+
+
+### Real-Time Payment Processing
+
+[Navigate to Real-Time Transaction Payment Processing](https://github.com/AzureCosmosDB/RealTimeTransactions)
+
+The scenario centers around a payments and transactions solution. Members having accounts, each account with corresponding balances, overdraft limits and credit/debit transactions. Transaction data is replicated across multiple geographic regions for both reads and writes, while maintaining consistency. Updates are made efficiently with the patch operation. Business rules govern if a transaction is allowed. An AI powered co-pilot enables agents to analyze transactions using natural language.
+
+[Hackathon Content](https://github.com/AzureCosmosDB/RealTimeTransactionsHackathon)
+
+### Medical Claims Processing
+
+[Navigate to Medical Claims Processing](https://github.com/AzureCosmosDB/ClaimsProcessing)
+
+The scenario centers around a medical claims management solution. Members having coverage and making claims, providers who deliver services to the member and payers who provide the insurance coverage that pays providers for services to the members. Claims submitted are submitted in a stream and loaded into the backing database for review and approval. Business rules govern the automated or human approval of claims. An AI powered co-pilot empowers agents with recommendations on how to process the claim.
+
+[Hackathon Content](https://github.com/AzureCosmosDB/ClaimsProcessingHackathon)
+
+
 
 ## Contributing
 
