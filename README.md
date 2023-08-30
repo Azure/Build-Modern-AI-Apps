@@ -14,6 +14,8 @@ The scenario for this sample centers around a consumer retail "Intelligent Agent
 
 [Hackathon Content](https://github.com/AzureCosmosDB/OpenAIHackathon)
 
+![alt](ad-vectorsearchaiassistant.png)
+
 
 ### Real-Time Payment Processing
 
