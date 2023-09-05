@@ -12,7 +12,7 @@ The Solution Accelerators below are designed to demonstrate how to build AI-enab
 
 The scenario for this sample centers around a consumer retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in the database. The data in this solution is from the [Cosmic Works sample](https://github.com/azurecosmosdb/cosmicworks) for Azure Cosmos DB and adapted from the Adventure Works 2017 SQL database sample for a retail Bike Shop that sells bicycles, biking accessories, components and clothing.
 
-[Build Modern AI Apps Hackathon Content](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon))
+[Build Modern AI Apps Hackathon Content](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)
 
 ![alt](ad-vectorsearchaiassistant.png)
 
