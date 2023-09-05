@@ -8,7 +8,7 @@ The Solution Accelerators below are designed to demonstrate how to build AI-enab
 
 ### Vector Search & AI Assistant (Official Solution Accelerator)
 
-[Navigate to Vector Search & AI Assistant](https://github.com/Azure/VectorSearchAiAssistant/tree/cognitive-search-vector)
+[Navigate to Vector Search & AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector)
 
 The scenario for this sample centers around a consumer retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in the database. The data in this solution is from the [Cosmic Works sample](https://github.com/azurecosmosdb/cosmicworks) for Azure Cosmos DB and adapted from the Adventure Works 2017 SQL database sample for a retail Bike Shop that sells bicycles, biking accessories, components and clothing.
 
