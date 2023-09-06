@@ -8,30 +8,30 @@ The Solution Accelerators below are designed to demonstrate how to build AI-enab
 
 ### Vector Search & AI Assistant (Official Solution Accelerator)
 
-[Navigate to Vector Search & AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant/tree/cognitive-search-vector)
+[Navigate to Vector Search & AI Assistant](https://github.com/AzureCosmosDB/VectorSearchAiAssistant/tree/cognitive-search-vector))
 
 The scenario for this sample centers around a consumer retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in the database. The data in this solution is from the [Cosmic Works sample](https://github.com/azurecosmosdb/cosmicworks) for Azure Cosmos DB and adapted from the Adventure Works 2017 SQL database sample for a retail Bike Shop that sells bicycles, biking accessories, components and clothing.
 
-[Build Modern AI Apps Hackathon Content](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)
+[Build Modern AI Apps Hackathon Content](https://github.com/AzureCosmosDB/OpenAIHackathon)
 
 ![alt](ad-vectorsearchaiassistant.png)
 
 
 ### Real-Time Payment and Transaction Processing
 
-[Navigate to Real-Time Transaction Payment Processing](https://github.com/Azure/Real-time-Payment-Transaction-Processing-at-Scale)
+[Navigate to Real-Time Transaction Payment Processing](https://github.com/AzureCosmosDB/RealTimeTransactions)
 
 The scenario centers around a payments and transactions solution. Members having accounts, each account with corresponding balances, overdraft limits and credit/debit transactions. Transaction data is replicated across multiple geographic regions for both reads and writes, while maintaining consistency. Updates are made efficiently with the patch operation. Business rules govern if a transaction is allowed. An AI powered co-pilot enables agents to analyze transactions using natural language.
 
-[Real Time Transactions Hackathon Content](https://github.com/Azure/Real-Time-Transactions-Hackathon))
+[Real Time Transactions Hackathon Content](https://github.com/AzureCosmosDB/RealTimeTransactionsHackathon)
 
 ### Medical Claims Processing
 
-[Navigate to Medical Claims Processing](https://github.com/Azure/Medical-Claims-Transaction-Processing-at-scale)
+[Navigate to Medical Claims Processing](https://github.com/AzureCosmosDB/ClaimsProcessing)
 
 The scenario centers around a medical claims management solution. Members having coverage and making claims, providers who deliver services to the member and payers who provide the insurance coverage that pays providers for services to the members. Claims submitted are submitted in a stream and loaded into the backing database for review and approval. Business rules govern the automated or human approval of claims. An AI powered co-pilot empowers agents with recommendations on how to process the claim.
 
-[Claims Processing Hackathon Content](https://github.com/Azure/Medical-Claims-Processing-Hackathon))
+[Claims Processing Hackathon Content](https://github.com/AzureCosmosDB/ClaimsProcessingHackathon)
 
 
 
