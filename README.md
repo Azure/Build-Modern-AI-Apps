@@ -33,7 +33,13 @@ The scenario centers around a medical claims management solution. Members having
 
 [Claims Processing Hackathon Content](https://github.com/AzureCosmosDB/ClaimsProcessingHackathon)
 
+## Workshops
 
+### Intelligent App Workshop for Microsoft Copilot Stack
+
+Inspired by Github Copilot's impact on developer productivity, this experiential workshop is designed to demonstrate how you can infuse similar intelligence and product experience into traditional software systems. Using [Microsoft's Copilot stack](https://learn.microsoft.com/semantic-kernel/overview/#semantic-kernel-is-at-the-center-of-the-copilot-stack) and practical [use cases](https://copilotwksp.com/wksp/05-use-cases/#use-cases), this workshop will guide you in envisioning and creating intelligent systems that integrate foundation models throughout all stages of application development - from design and user experience to deployment.
+
+By leveraging design thinking, [Project Miyagi](https://github.com/Azure-Samples/miyagi) which provides the underlying samples for this workshop, and art-of-the-possible examples (with samples and skills from [Semantic Kernel (SK)](https://github.com/microsoft/semantic-kernel), Project Miyagi, and [Reddog](https://github.com/Azure/reddog-solutions)), this workshop offers a comprehensive, hands-on exploration of how foundation models can augment your applications with intelligence to create hyper-personalized product experiences and improve productivity. We will also have an Architecture Design Session (ADS) to unlock and operationalize the full potential of AI-infused applications for your organization.
 
 ## Contributing
 
