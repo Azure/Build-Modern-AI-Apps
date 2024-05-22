@@ -1,6 +1,6 @@
 # Build & Modernize AI Applications
 
-This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content. The projects listed below provide access to the published Microsoft content on how to build AI-enabled applications using Azure OpenAI Service, Azure Container Apps (or Azure Kubernetes Service), and Azure Cosmos DB.
+This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content. The projects listed below provide access to the published Microsoft content on how to build Generative AId applications using Azure OpenAI Service, Azure Container Apps (or Azure Kubernetes Service), Azure Cosmos DB for NoSQL with vector search and Semantic Kernel providing LLM Orchestration and connectivity.
 
 ## Solutions
 
@@ -10,7 +10,7 @@ The Solution Accelerators below are designed to demonstrate how to build AI-enab
 
 [Navigate to Vector Search & AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant)
 
-The scenario for this sample centers around a consumer retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in the database. The data in this solution is from the [Cosmic Works sample](https://github.com/azurecosmosdb/cosmicworks) for Azure Cosmos DB and adapted from the Adventure Works 2017 SQL database sample for a retail Bike Shop that sells bicycles, biking accessories, components and clothing.
+This is an in-depth production-quality solution accelerator with an advanced implemention. The scenario centers around a retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in Azure Cosmos DB. This solution demonstrates key concepts including how to manage conversational context (chat history), token and LLM payload management, how to implement a semantic cache for improved performance and data-model management to drive what gets vectorized and made available for vector search.
 
 [Build Modern AI Apps Hackathon Content](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)
 
