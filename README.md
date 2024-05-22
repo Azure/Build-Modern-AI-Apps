@@ -1,6 +1,6 @@
 # Build & Modernize AI Applications
 
-This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content. The projects listed below provide access to the published Microsoft content on how to build AI-enabled applications using Azure OpenAI Service, Azure Container Apps (or Azure Kuberntes Service), Azure Cosmos DB and Azure Cognitive Search.
+This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content. The projects listed below provide access to the published Microsoft content on how to build AI-enabled applications using Azure OpenAI Service, Azure Container Apps (or Azure Kubernetes Service), and Azure Cosmos DB.
 
 ## Solutions
 
