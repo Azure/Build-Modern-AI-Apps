@@ -1,18 +1,28 @@
 # Build & Modernize AI Applications
 
-This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content. The projects listed below provide access to the published Microsoft content on how to build Generative AId applications using Azure OpenAI Service, Azure Container Apps (or Azure Kubernetes Service), Azure Cosmos DB for NoSQL with vector search and Semantic Kernel providing LLM Orchestration and connectivity.
+This page is intended as a home page for all of the Microsoft Official Build & Modernize AI Applications reference solutions and content.
 
 ## Solutions
 
-The Solution Accelerators below are designed to demonstrate how to build AI-enabled applications and services in Azure. These solutions can be forked or cloned to help build prototypes for your organizations, helping you get started and reduce time to market. Each of the solution accelerator solutions below are also accompanied by a 1-2 day hackathon that provide a series of challenges for users to learn the concepts, technical skills and Azure Services used to build these types of applications.
+The Solution Accelerators and Hackathons below are designed to demonstrate how to build AI-enabled applications and services in Azure. These production-ready solutions can be forked or cloned to help build prototypes for your organizations, helping you get started and reduce time to market. Each of the solution accelerator solutions below are also accompanied by a 1-2 day hackathon that provide a series of challenges for users to learn the concepts, technical skills and Azure Services used to build these types of applications.
 
-### Vector Search & AI Assistant (Official Solution Accelerator)
+### Build Your Own Copilot (Official Solution Accelerator)
 
-[Navigate to Vector Search & AI Assistant](https://github.com/Azure/Vector-Search-AI-Assistant)
+[Navigate to Build Your Own Copilot](https://github.com/Azure/BuildYourOwnCopilot)
 
-This is an in-depth production-quality solution accelerator with an advanced implemention. The scenario centers around a retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in Azure Cosmos DB. This solution demonstrates key concepts including how to manage conversational context (chat history), token and LLM payload management, how to implement a semantic cache for improved performance and data-model management to drive what gets vectorized and made available for vector search.
+This is an in-depth production-quality solution accelerator with an advanced implemention. The scenario centers around a retail "Intelligent Agent" that allows users to ask questions (RAG Pattern) on vectorized product, customer and sales order data stored in Azure Cosmos DB.
 
-[Build Modern AI Apps Hackathon Content](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)
+This solution demonstrates many concepts developers will encounter when building Generative-AI applications including:
+
+- Generating and storing vectors in real-time on transactional data.
+- Performing vector searches on data in a database.
+- Generating completions from a large language model.
+- Managing conversational context and chat history.
+- Token management for large langage models.
+- Managing data models for defining what data gets vectorized for search.
+- How to use Semantic Kernel SDK connectors, plug-ins, agents and planners.
+
+[Build Your Own Copilot Hackathon](https://github.com/Azure/Build-Modern-AI-Apps-Hackathon)
 
 ![alt](architecture.png)
 
